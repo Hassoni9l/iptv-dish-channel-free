@@ -1,4 +1,4 @@
-# IPTV
+https://iptv-org.github.io/iptv/categories/xxx.m3u# IPTV
 
 Collection of 8000+ publicly available IPTV channels from all over the world. 
 
